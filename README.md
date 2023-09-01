@@ -7,6 +7,7 @@
 [#autores]  
 # Projeto - Apredendo a escrever um README 
 
+![image info](img/coverpage.png)
 ## Descriçao
 
 ## Introduçao
