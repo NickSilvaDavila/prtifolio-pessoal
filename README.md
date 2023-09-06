@@ -13,7 +13,7 @@
 [Autores](#autores)  
 # Projeto - Apredendo a escrever um README 
 
-![image info](img/coverpage.png)
+![image info](img/tela.png)
 ## Descriçao
 
 ## Introduçao
