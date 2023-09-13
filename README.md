@@ -18,6 +18,9 @@
 
   Este é um modelo de site de capa simples e elegante projetado para criar páginas de capa impressionantes. 
 
+   <h4 align="center"> 
+    :construction: 🚧s Projeto em construção 🚧 :construction:</h4>
+
 ## Introduçao
 
 Este é um modelo de site de capa simples e elegante projetado para criar páginas de capa impressionantes e envolventes para qualquer tipo de projeto, seja pessoal, profissional ou empresarial. Com este modelo, você pode facilmente criar uma presença on-line cativante para apresentar seu conteúdo de maneira atraente.
