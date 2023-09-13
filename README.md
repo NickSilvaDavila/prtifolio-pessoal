@@ -19,7 +19,7 @@
   Este é um modelo de site de capa simples e elegante projetado para criar páginas de capa impressionantes. 
 
    <h4 align="center"> 
-    :construction: 🚧s Projeto em construção 🚧 :construction:</h4>
+    :construction: 🚧 Projeto em construção 🚧 :construction:</h4>
 
 ## Introduçao
 
