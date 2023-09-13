@@ -17,7 +17,7 @@
 # 🔭 Projeto - Apredendo a escrever um README 🚀
 
 ![image info](_img/tela.png)
-## 📚⃤ Descriçao 📚⃤
+## 📚⃤  Descriçao 📚⃤
 
   Este é um modelo de site de capa simples e elegante projetado para criar páginas de capa impressionantes. 
 
