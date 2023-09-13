@@ -40,7 +40,7 @@ Este é um modelo de site de capa simples e elegante projetado para criar págin
 - ``Html``
 - ``CSS``
 
-## 🌸⃤ Fontes consultadas 🌸⃤
+## 🌸⃤ Fontes consultadas🌸⃤
 
  ───⇌•:🌷: •⇋───
 
