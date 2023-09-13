@@ -14,7 +14,7 @@
 
 -ˏˋ⋆ ᴡ ᴇ ʟ ᴄ ᴏ ᴍ ᴇ ⋆ˊˎ-
 
-# ㋛︎ Projeto - Apredendo a escrever um README 🚀
+# 🔭 Projeto - Apredendo a escrever um README 🚀
 
 ![image info](_img/tela.png)
 ## ۞ Descriçao ۞
