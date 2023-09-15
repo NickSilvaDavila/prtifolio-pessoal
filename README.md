@@ -39,10 +39,18 @@ Este é um modelo de site de capa simples e elegante projetado para criar págin
 ## 🔧Tecnologias ultilizadas🔨
 - ``Html``
 - ``CSS``
+- ``GitHub``
+- ``Visual Studio Code``
 
 ## 🌸⃤ Fontes consultadas🌸⃤
 
  ───⇌•:🌷: •⇋───
 
+ [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como escrever um README incrível no seu Github.
+
+ [lohhans](https://github.com/lohhans/lohhans)- Um bom protótipo para aprender como se fazer um README. 
+
 
 ## 💻 Autores 💻
+
+ Nicolly da Silva D'avila 2A
