@@ -32,13 +32,24 @@ Este é um modelo de site de capa simples e elegante projetado para criar págin
 ## 🗒 Funcionalidade 🗒
 
 - ``Saber mais:`` O botão "Saber mais" em um site é um elemento de interface frequentemente utilizado para fornecer aos visitantes do site a oportunidade de obter informações adicionais sobre um determinado tópico, produto, serviço ou seção do site. 
+
+ <img scr="_img/Saber mais.png width="9%">
+
 - ``Inicio:`` Botao do inicio e ultilizado para se retornar a tela inicial de um site.
+
+ <img src="_img/Inicio.png width="9%">
+
 - ``Recursos:`` Esse botao recursos e usado para se saber sobre mais recursos que um site oferece ao seus usuarios.
+
+ <img scr="_img/Recursos.png width="9%">
+
 - ``Contato:`` Nesse botão de contato serve para que o usuário entre em contato com as pessoas responsáveis pelo site, caso o usuário tenha alguma dúvida ou algum problema a ser relato e consertado, caso seja um problema e não uma simples dúvida.
 
+ <img scr="_img/Contatos.png width="9%">
+
 ## 🔧Tecnologias ultilizadas🔨
-- ``Html``
-- ``CSS``
+- ``Html5``
+- ``CSS3``
 - ``GitHub``
 - ``Visual Studio Code``
 
